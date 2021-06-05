@@ -1,0 +1,5 @@
+Vlad | 1
+Gicu | 2
+Bogdan | 3
+Andrei | 2
+John | 4
